@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152037003582",
+    "firebase_url": "https://syafiradeta-e48a6.firebaseio.com",
+    "project_id": "syafiradeta-e48a6",
+    "storage_bucket": "syafiradeta-e48a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152037003582:android:fe234f2d5e3b80ceae1c6f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseandpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152037003582-lpov5m6lg2uktkfdopq90lucfrp9vj6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseandpush",
+            "certificate_hash": "95ed471475632ba8a28382411a8df877ff5b91f1"
+          }
+        },
+        {
+          "client_id": "152037003582-46hu42c0176363vhjndoaukgv8lnjefm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyButdwNCeS16XFNCG6nRcqS7qSbgbwhgOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152037003582-46hu42c0176363vhjndoaukgv8lnjefm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
